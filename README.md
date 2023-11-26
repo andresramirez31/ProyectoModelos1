@@ -12,6 +12,8 @@
     <p>Los datos se encuentran disponibles desde un repositorio diferente de github, al inicio del codigo se presentan unas variables principales conocidas por ejemplo como: RegularSeasDetai, Teams. Estas variables contienen enlaces que se dirigen a los archivos csv raw guardados en el otro repositorio. Solo se necesita ejecutar estas celdas y dentro de las variables anteriormente mencionadas se cargaran los archivos desde el repositorio de los datos, para luego ser leidas por pandas con la funcion .read_csv()<br></p>
     <h1>Enlace de youtube para el video de la entrega 2</h1>
     <p>https://youtu.be/pFO1jcJfZ5I</p>
+    <h1>Enlace de youtube para el video de la entrega final</h1>
+    <p></p>
   </body>
 </html>
 
